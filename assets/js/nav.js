@@ -21,6 +21,15 @@ const createNav = () => {
         </div>
       </div> 
 
+      <div class="dropdown">
+        <button class="dropbtn">Salah</button>
+        <div class="dropdown-content">
+          <a href="number-of-rakat.html">Number of Rakat</a>
+          <a href="traveling-salah.html">Travelling Salah</a>
+          <a href="salah-timings.html">Salah Timings</a>
+        </div>
+      </div> 
+
       <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
     </div>
     `;

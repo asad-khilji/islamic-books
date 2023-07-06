@@ -109,9 +109,24 @@ body {margin:0;font-family:Arial}
   line-height: 2;
 }
 
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 30%;
+}
+
+td, th {
+  border: 1px solid;
+  text-align: left;
+  padding: 8px;
+}
+
 @media screen and (max-width: 768px) {
   .col-4 {
     flex-basis: 50%;
+  }
+  table {
+    width: 80%;
   }
 }
 
