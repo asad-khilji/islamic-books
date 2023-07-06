@@ -14,6 +14,13 @@ const createNav = () => {
         </div>
       </div> 
 
+      <div class="dropdown">
+        <button class="dropbtn">Seerah</button>
+        <div class="dropdown-content">
+          <a href="seerah-makkan-period.html">Makkan Period</a>
+        </div>
+      </div> 
+
       <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
     </div>
     `;
