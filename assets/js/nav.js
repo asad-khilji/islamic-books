@@ -22,6 +22,13 @@ const createNav = () => {
       </div> 
 
       <div class="dropdown">
+        <button class="dropbtn">History</button>
+        <div class="dropdown-content">
+          <a href="mothers-of-the-believers.html">Mothers of the Believers</a>
+        </div>
+      </div> 
+
+      <div class="dropdown">
         <button class="dropbtn">Salah</button>
         <div class="dropdown-content">
           <a href="number-of-rakat.html">Number of Rakat</a>
